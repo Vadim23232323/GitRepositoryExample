@@ -1,0 +1,356 @@
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample
+$ git init
+Initialized empty Git repository in D:/courses/GitRepositoryExample/.git/
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        HW_1/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git add HW_1/
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   HW_1/.vs/HW_1/DesignTimeBuild/.dtbcache.v2
+        new file:   HW_1/.vs/HW_1/v16/.suo
+        new file:   HW_1/HW_1.sln
+        new file:   HW_1/HW_1/ExamplesEnumeration.cs
+        new file:   HW_1/HW_1/HW_1.csproj
+        new file:   HW_1/HW_1/Program.cs
+        new file:   HW_1/HW_1/bin/Debug/netcoreapp3.1/HW_1.deps.json
+        new file:   HW_1/HW_1/bin/Debug/netcoreapp3.1/HW_1.dll
+        new file:   HW_1/HW_1/bin/Debug/netcoreapp3.1/HW_1.exe
+        new file:   HW_1/HW_1/bin/Debug/netcoreapp3.1/HW_1.pdb
+        new file:   HW_1/HW_1/bin/Debug/netcoreapp3.1/HW_1.runtimeconfig.dev.json
+        new file:   HW_1/HW_1/bin/Debug/netcoreapp3.1/HW_1.runtimeconfig.json
+        new file:   HW_1/HW_1/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+        new file:   HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.AssemblyInfo.cs
+        new file:   HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.AssemblyInfoInputs.cache
+        new file:   HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.assets.cache
+        new file:   HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.csproj.CoreCompileInputs.cache
+        new file:   HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.csproj.FileListAbsolute.txt
+        new file:   HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.csprojAssemblyReference.cache
+        new file:   HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.dll
+        new file:   HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.genruntimeconfig.cache
+        new file:   HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.pdb
+        new file:   HW_1/HW_1/obj/Debug/netcoreapp3.1/apphost.exe
+        new file:   HW_1/HW_1/obj/HW_1.csproj.nuget.dgspec.json
+        new file:   HW_1/HW_1/obj/HW_1.csproj.nuget.g.props
+        new file:   HW_1/HW_1/obj/HW_1.csproj.nuget.g.targets
+        new file:   HW_1/HW_1/obj/project.assets.json
+        new file:   HW_1/HW_1/obj/project.nuget.cache
+        new file:   HW_1/HW_1/task1_Collections/ArrayList.cs
+        new file:   HW_1/HW_1/task1_Collections/HashTable.cs
+        new file:   HW_1/HW_1/task1_Collections/Queue.cs
+        new file:   HW_1/HW_1/task1_Collections/Stack.cs
+        new file:   HW_1/HW_1/task1_GenericCollections/HashSetGeneric.cs
+        new file:   HW_1/HW_1/task1_GenericCollections/List.cs
+        new file:   HW_1/HW_1/task1_GenericCollections/QueueGeneric.cs
+        new file:   HW_1/HW_1/task1_GenericCollections/StackGeneric.cs
+        new file:   HW_1/HW_1/task2_Dictionary/Dictionary.cs
+        new file:   HW_1/HW_1/task3_LinkedList/LinkedList.cs
+
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git commit -m "initial commit"
+[master (root-commit) 62c0c3f] initial commit
+ 38 files changed, 1072 insertions(+)
+ create mode 100644 HW_1/.vs/HW_1/DesignTimeBuild/.dtbcache.v2
+ create mode 100644 HW_1/.vs/HW_1/v16/.suo
+ create mode 100644 HW_1/HW_1.sln
+ create mode 100644 HW_1/HW_1/ExamplesEnumeration.cs
+ create mode 100644 HW_1/HW_1/HW_1.csproj
+ create mode 100644 HW_1/HW_1/Program.cs
+ create mode 100644 HW_1/HW_1/bin/Debug/netcoreapp3.1/HW_1.deps.json
+ create mode 100644 HW_1/HW_1/bin/Debug/netcoreapp3.1/HW_1.dll
+ create mode 100644 HW_1/HW_1/bin/Debug/netcoreapp3.1/HW_1.exe
+ create mode 100644 HW_1/HW_1/bin/Debug/netcoreapp3.1/HW_1.pdb
+ create mode 100644 HW_1/HW_1/bin/Debug/netcoreapp3.1/HW_1.runtimeconfig.dev.json
+ create mode 100644 HW_1/HW_1/bin/Debug/netcoreapp3.1/HW_1.runtimeconfig.json
+ create mode 100644 HW_1/HW_1/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+ create mode 100644 HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.AssemblyInfo.cs
+ create mode 100644 HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.AssemblyInfoInputs.cache
+ create mode 100644 HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.assets.cache
+ create mode 100644 HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.csproj.CoreCompileInputs.cache
+ create mode 100644 HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.csproj.FileListAbsolute.txt
+ create mode 100644 HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.csprojAssemblyReference.cache
+ create mode 100644 HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.dll
+ create mode 100644 HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.genruntimeconfig.cache
+ create mode 100644 HW_1/HW_1/obj/Debug/netcoreapp3.1/HW_1.pdb
+ create mode 100644 HW_1/HW_1/obj/Debug/netcoreapp3.1/apphost.exe
+ create mode 100644 HW_1/HW_1/obj/HW_1.csproj.nuget.dgspec.json
+ create mode 100644 HW_1/HW_1/obj/HW_1.csproj.nuget.g.props
+ create mode 100644 HW_1/HW_1/obj/HW_1.csproj.nuget.g.targets
+ create mode 100644 HW_1/HW_1/obj/project.assets.json
+ create mode 100644 HW_1/HW_1/obj/project.nuget.cache
+ create mode 100644 HW_1/HW_1/task1_Collections/ArrayList.cs
+ create mode 100644 HW_1/HW_1/task1_Collections/HashTable.cs
+ create mode 100644 HW_1/HW_1/task1_Collections/Queue.cs
+ create mode 100644 HW_1/HW_1/task1_Collections/Stack.cs
+ create mode 100644 HW_1/HW_1/task1_GenericCollections/HashSetGeneric.cs
+ create mode 100644 HW_1/HW_1/task1_GenericCollections/List.cs
+ create mode 100644 HW_1/HW_1/task1_GenericCollections/QueueGeneric.cs
+ create mode 100644 HW_1/HW_1/task1_GenericCollections/StackGeneric.cs
+ create mode 100644 HW_1/HW_1/task2_Dictionary/Dictionary.cs
+ create mode 100644 HW_1/HW_1/task3_LinkedList/LinkedList.cs
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git push
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ ^C
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git remote add origin https://github.com/Vadim23232323/GitRepositoryExample.git
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git push --set-upstream origin master
+Enumerating objects: 53, done.
+Counting objects: 100% (53/53), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (41/41), done.
+Writing objects: 100% (53/53), 125.24 KiB | 2.85 MiB/s, done.
+Total 53 (delta 6), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (6/6), done.
+To https://github.com/Vadim23232323/GitRepositoryExample.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$
+
+
+
+
+
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        document.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git add document.txt
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   document.txt
+
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git git commit -m "NEW DOCUMENT.TXT"
+git: 'git' is not a git command. See 'git --help'.
+
+The most similar command is
+        init
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   document.txt
+
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git git commit -m "NEW DOCUMENT"
+git: 'git' is not a git command. See 'git --help'.
+
+The most similar command is
+        init
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git commit -m "NEW DOCUMENT"
+[master e8c2eff] NEW DOCUMENT
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 document.txt
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git checkout -b develop
+Switched to a new branch 'develop'
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (develop)
+$ git checkout master
+Switched to branch 'master'
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   document.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git add .
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git commit -m "EDIT NEW DOCUMENT"
+[master d516578] EDIT NEW DOCUMENT
+ 1 file changed, 1 insertion(+)
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git log
+commit d51657858e89d48cac534e4f9ee0ef4b393c740e (HEAD -> master)
+Author: unknown <C:\Users\IVC\AppData\Roaming\The Bat!>
+Date:   Thu Jan 28 20:20:35 2021 +0300
+
+    EDIT NEW DOCUMENT
+
+commit e8c2eff843c2f0fe7f6a6193dcbe156176e2b78a (develop)
+Author: unknown <C:\Users\IVC\AppData\Roaming\The Bat!>
+Date:   Thu Jan 28 20:15:04 2021 +0300
+
+    NEW DOCUMENT
+
+commit 62c0c3f3262f62e73e868869848f51a8b909c459 (origin/master)
+Author: unknown <C:\Users\IVC\AppData\Roaming\The Bat!>
+Date:   Sun Jan 24 12:04:32 2021 +0300
+
+    initial commit
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git checkout -b develop2
+Switched to a new branch 'develop2'
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (develop2)
+$ git status
+On branch develop2
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   document.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        documentDevelop.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (develop2)
+$ git add documentDevelop.txt
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (develop2)
+$ git status
+On branch develop2
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   documentDevelop.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   document.txt
+
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (develop2)
+$ git commit -m "add document develop2"
+[develop2 12ce824] add document develop2
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 documentDevelop.txt
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (develop2)
+$ git log
+commit 12ce82488283b83d742a675f287ec1e5e7ba0291 (HEAD -> develop2)
+Author: unknown <C:\Users\IVC\AppData\Roaming\The Bat!>
+Date:   Thu Jan 28 20:29:24 2021 +0300
+
+    add document develop2
+
+commit d51657858e89d48cac534e4f9ee0ef4b393c740e (master)
+Author: unknown <C:\Users\IVC\AppData\Roaming\The Bat!>
+Date:   Thu Jan 28 20:20:35 2021 +0300
+
+    EDIT NEW DOCUMENT
+
+commit e8c2eff843c2f0fe7f6a6193dcbe156176e2b78a (develop)
+Author: unknown <C:\Users\IVC\AppData\Roaming\The Bat!>
+Date:   Thu Jan 28 20:15:04 2021 +0300
+
+    NEW DOCUMENT
+
+commit 62c0c3f3262f62e73e868869848f51a8b909c459 (origin/master)
+Author: unknown <C:\Users\IVC\AppData\Roaming\The Bat!>
+Date:   Sun Jan 24 12:04:32 2021 +0300
+
+    initial commit
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (develop2)
+$ git checkout master
+Switched to branch 'master'
+M       document.txt
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$
+
+
+
+
+
+IVC@DESKTOP-PGISH7S MINGW64 /d/courses/GitRepositoryExample (master)
+$ git config core.editor notepad
