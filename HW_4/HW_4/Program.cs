@@ -2,6 +2,7 @@
 using HW_4.task1;
 using Delegate = HW_4.task1.Delegate;
 using HW_4.task2;
+using HW_4.task3;
 
 namespace HW_4
 {
@@ -9,7 +10,7 @@ namespace HW_4
     {
         static void Main(string[] args)
         {
-            var exampleToRun = ExamplesEnumeration.DeligateGeneric;
+            var exampleToRun = ExamplesEnumeration.DelegateCat;
 
             switch (exampleToRun)
             {
@@ -18,6 +19,9 @@ namespace HW_4
                     break;
                 case ExamplesEnumeration.DeligateGeneric:
                     GenericDeligate.show();
+                    break;
+                case ExamplesEnumeration.DelegateCat:
+                    CatDelegate.catdelegates();
                     break;
 
             }

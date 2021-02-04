@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\courses\\GitRepositoryExample\\HW_4\\HW_4\\HW_4\\HW_4.csproj",
+      "projectUniqueName": "D:\\courses\\HW_4\\HW_4\\HW_4.csproj",
       "projectName": "HW_4",
-      "projectPath": "D:\\courses\\GitRepositoryExample\\HW_4\\HW_4\\HW_4\\HW_4.csproj",
+      "projectPath": "D:\\courses\\HW_4\\HW_4\\HW_4.csproj",
       "packagesPath": "C:\\Users\\IVC\\.nuget\\packages\\",
-      "outputPath": "D:\\courses\\GitRepositoryExample\\HW_4\\HW_4\\HW_4\\obj\\",
+      "outputPath": "D:\\courses\\HW_4\\HW_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IVC\\AppData\\Roaming\\NuGet\\NuGet.Config",

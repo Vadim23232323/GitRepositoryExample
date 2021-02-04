@@ -11,3 +11,16 @@ D:\courses\GitRepositoryExample\HW_4\HW_4\HW_4\bin\Debug\netcoreapp3.1\HW_4.pdb
 D:\courses\GitRepositoryExample\HW_4\HW_4\HW_4\obj\Debug\netcoreapp3.1\HW_4.dll
 D:\courses\GitRepositoryExample\HW_4\HW_4\HW_4\obj\Debug\netcoreapp3.1\HW_4.pdb
 D:\courses\GitRepositoryExample\HW_4\HW_4\HW_4\obj\Debug\netcoreapp3.1\HW_4.genruntimeconfig.cache
+D:\courses\HW_4\HW_4\bin\Debug\netcoreapp3.1\HW_4.exe
+D:\courses\HW_4\HW_4\bin\Debug\netcoreapp3.1\HW_4.deps.json
+D:\courses\HW_4\HW_4\bin\Debug\netcoreapp3.1\HW_4.runtimeconfig.json
+D:\courses\HW_4\HW_4\bin\Debug\netcoreapp3.1\HW_4.runtimeconfig.dev.json
+D:\courses\HW_4\HW_4\bin\Debug\netcoreapp3.1\HW_4.dll
+D:\courses\HW_4\HW_4\bin\Debug\netcoreapp3.1\HW_4.pdb
+D:\courses\HW_4\HW_4\obj\Debug\netcoreapp3.1\HW_4.csprojAssemblyReference.cache
+D:\courses\HW_4\HW_4\obj\Debug\netcoreapp3.1\HW_4.AssemblyInfoInputs.cache
+D:\courses\HW_4\HW_4\obj\Debug\netcoreapp3.1\HW_4.AssemblyInfo.cs
+D:\courses\HW_4\HW_4\obj\Debug\netcoreapp3.1\HW_4.csproj.CoreCompileInputs.cache
+D:\courses\HW_4\HW_4\obj\Debug\netcoreapp3.1\HW_4.dll
+D:\courses\HW_4\HW_4\obj\Debug\netcoreapp3.1\HW_4.pdb
+D:\courses\HW_4\HW_4\obj\Debug\netcoreapp3.1\HW_4.genruntimeconfig.cache

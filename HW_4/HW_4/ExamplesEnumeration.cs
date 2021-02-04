@@ -8,8 +8,6 @@ namespace HW_4
     {
         DelegatesBasic,
         DeligateGeneric,
-        DelegateNonStatic,
-        DelegateWithParameters,
-
+        DelegateCat,
     }
 }

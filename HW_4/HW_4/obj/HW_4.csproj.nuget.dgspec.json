@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\courses\\GitRepositoryExample\\HW_4\\HW_4\\HW_4\\HW_4.csproj": {}
+    "D:\\courses\\HW_4\\HW_4\\HW_4.csproj": {}
   },
   "projects": {
-    "d:\\courses\\GitRepositoryExample\\HW_4\\HW_4\\HW_4\\HW_4.csproj": {
+    "D:\\courses\\HW_4\\HW_4\\HW_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\courses\\GitRepositoryExample\\HW_4\\HW_4\\HW_4\\HW_4.csproj",
+        "projectUniqueName": "D:\\courses\\HW_4\\HW_4\\HW_4.csproj",
         "projectName": "HW_4",
-        "projectPath": "d:\\courses\\GitRepositoryExample\\HW_4\\HW_4\\HW_4\\HW_4.csproj",
+        "projectPath": "D:\\courses\\HW_4\\HW_4\\HW_4.csproj",
         "packagesPath": "C:\\Users\\IVC\\.nuget\\packages\\",
-        "outputPath": "d:\\courses\\GitRepositoryExample\\HW_4\\HW_4\\HW_4\\obj\\",
+        "outputPath": "D:\\courses\\HW_4\\HW_4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IVC\\AppData\\Roaming\\NuGet\\NuGet.Config",
