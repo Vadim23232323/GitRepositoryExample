@@ -1,0 +1,13 @@
+D:\courses\GitRepositoryExample\HW_5\HW_5\HW_5\obj\Debug\netcoreapp3.1\HW_5.csprojAssemblyReference.cache
+D:\courses\GitRepositoryExample\HW_5\HW_5\HW_5\obj\Debug\netcoreapp3.1\HW_5.AssemblyInfoInputs.cache
+D:\courses\GitRepositoryExample\HW_5\HW_5\HW_5\obj\Debug\netcoreapp3.1\HW_5.AssemblyInfo.cs
+D:\courses\GitRepositoryExample\HW_5\HW_5\HW_5\obj\Debug\netcoreapp3.1\HW_5.csproj.CoreCompileInputs.cache
+D:\courses\GitRepositoryExample\HW_5\HW_5\HW_5\bin\Debug\netcoreapp3.1\HW_5.exe
+D:\courses\GitRepositoryExample\HW_5\HW_5\HW_5\bin\Debug\netcoreapp3.1\HW_5.deps.json
+D:\courses\GitRepositoryExample\HW_5\HW_5\HW_5\bin\Debug\netcoreapp3.1\HW_5.runtimeconfig.json
+D:\courses\GitRepositoryExample\HW_5\HW_5\HW_5\bin\Debug\netcoreapp3.1\HW_5.runtimeconfig.dev.json
+D:\courses\GitRepositoryExample\HW_5\HW_5\HW_5\bin\Debug\netcoreapp3.1\HW_5.dll
+D:\courses\GitRepositoryExample\HW_5\HW_5\HW_5\bin\Debug\netcoreapp3.1\HW_5.pdb
+D:\courses\GitRepositoryExample\HW_5\HW_5\HW_5\obj\Debug\netcoreapp3.1\HW_5.dll
+D:\courses\GitRepositoryExample\HW_5\HW_5\HW_5\obj\Debug\netcoreapp3.1\HW_5.pdb
+D:\courses\GitRepositoryExample\HW_5\HW_5\HW_5\obj\Debug\netcoreapp3.1\HW_5.genruntimeconfig.cache
