@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\courses\\GitRepositoryExample\\HW_5\\HW_5\\HW_5.csproj": {}
+    "D:\\courses\\calculator\\calculator\\calculator.csproj": {}
   },
   "projects": {
-    "D:\\courses\\GitRepositoryExample\\HW_5\\HW_5\\HW_5.csproj": {
+    "D:\\courses\\calculator\\calculator\\calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\courses\\GitRepositoryExample\\HW_5\\HW_5\\HW_5.csproj",
-        "projectName": "HW_5",
-        "projectPath": "D:\\courses\\GitRepositoryExample\\HW_5\\HW_5\\HW_5.csproj",
+        "projectUniqueName": "D:\\courses\\calculator\\calculator\\calculator.csproj",
+        "projectName": "calculator",
+        "projectPath": "D:\\courses\\calculator\\calculator\\calculator.csproj",
         "packagesPath": "C:\\Users\\IVC\\.nuget\\packages\\",
-        "outputPath": "D:\\courses\\GitRepositoryExample\\HW_5\\HW_5\\obj\\",
+        "outputPath": "D:\\courses\\calculator\\calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IVC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,6 +52,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
