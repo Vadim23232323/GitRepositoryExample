@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\courses\\calculator\\calculator\\calculator.csproj",
+      "projectUniqueName": "D:\\courses\\GitRepositoryExample\\HW_5\\calculator\\calculator\\calculator.csproj",
       "projectName": "calculator",
-      "projectPath": "D:\\courses\\calculator\\calculator\\calculator.csproj",
+      "projectPath": "D:\\courses\\GitRepositoryExample\\HW_5\\calculator\\calculator\\calculator.csproj",
       "packagesPath": "C:\\Users\\IVC\\.nuget\\packages\\",
-      "outputPath": "D:\\courses\\calculator\\calculator\\obj\\",
+      "outputPath": "D:\\courses\\GitRepositoryExample\\HW_5\\calculator\\calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IVC\\AppData\\Roaming\\NuGet\\NuGet.Config",
