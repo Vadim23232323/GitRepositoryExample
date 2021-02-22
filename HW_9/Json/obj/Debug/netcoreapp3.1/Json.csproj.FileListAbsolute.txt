@@ -1,0 +1,14 @@
+D:\courses\GitRepositoryExample\HW_9\Json\obj\Debug\netcoreapp3.1\Json.csprojAssemblyReference.cache
+D:\courses\GitRepositoryExample\HW_9\Json\obj\Debug\netcoreapp3.1\Json.AssemblyInfoInputs.cache
+D:\courses\GitRepositoryExample\HW_9\Json\obj\Debug\netcoreapp3.1\Json.AssemblyInfo.cs
+D:\courses\GitRepositoryExample\HW_9\Json\obj\Debug\netcoreapp3.1\Json.csproj.CoreCompileInputs.cache
+D:\courses\GitRepositoryExample\HW_9\Json\bin\Debug\netcoreapp3.1\Json.deps.json
+D:\courses\GitRepositoryExample\HW_9\Json\bin\Debug\netcoreapp3.1\Json.dll
+D:\courses\GitRepositoryExample\HW_9\Json\bin\Debug\netcoreapp3.1\Json.pdb
+D:\courses\GitRepositoryExample\HW_9\Json\bin\Debug\netcoreapp3.1\Attribute.dll
+D:\courses\GitRepositoryExample\HW_9\Json\bin\Debug\netcoreapp3.1\models.dll
+D:\courses\GitRepositoryExample\HW_9\Json\bin\Debug\netcoreapp3.1\Attribute.pdb
+D:\courses\GitRepositoryExample\HW_9\Json\bin\Debug\netcoreapp3.1\models.pdb
+D:\courses\GitRepositoryExample\HW_9\Json\obj\Debug\netcoreapp3.1\Json.csproj.CopyComplete
+D:\courses\GitRepositoryExample\HW_9\Json\obj\Debug\netcoreapp3.1\Json.dll
+D:\courses\GitRepositoryExample\HW_9\Json\obj\Debug\netcoreapp3.1\Json.pdb

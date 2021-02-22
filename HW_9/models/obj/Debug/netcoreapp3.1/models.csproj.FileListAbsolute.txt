@@ -1,0 +1,12 @@
+D:\courses\GitRepositoryExample\HW_9\models\obj\Debug\netcoreapp3.1\models.csprojAssemblyReference.cache
+D:\courses\GitRepositoryExample\HW_9\models\obj\Debug\netcoreapp3.1\models.AssemblyInfoInputs.cache
+D:\courses\GitRepositoryExample\HW_9\models\obj\Debug\netcoreapp3.1\models.AssemblyInfo.cs
+D:\courses\GitRepositoryExample\HW_9\models\obj\Debug\netcoreapp3.1\models.csproj.CoreCompileInputs.cache
+D:\courses\GitRepositoryExample\HW_9\models\bin\Debug\netcoreapp3.1\models.deps.json
+D:\courses\GitRepositoryExample\HW_9\models\bin\Debug\netcoreapp3.1\models.dll
+D:\courses\GitRepositoryExample\HW_9\models\bin\Debug\netcoreapp3.1\models.pdb
+D:\courses\GitRepositoryExample\HW_9\models\bin\Debug\netcoreapp3.1\Attribute.dll
+D:\courses\GitRepositoryExample\HW_9\models\bin\Debug\netcoreapp3.1\Attribute.pdb
+D:\courses\GitRepositoryExample\HW_9\models\obj\Debug\netcoreapp3.1\models.csproj.CopyComplete
+D:\courses\GitRepositoryExample\HW_9\models\obj\Debug\netcoreapp3.1\models.dll
+D:\courses\GitRepositoryExample\HW_9\models\obj\Debug\netcoreapp3.1\models.pdb

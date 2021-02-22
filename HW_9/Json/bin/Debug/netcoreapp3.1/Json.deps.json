@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Json/1.0.0": {
+        "dependencies": {
+          "Attribute": "1.0.0",
+          "models": "1.0.0"
+        },
+        "runtime": {
+          "Json.dll": {}
+        }
+      },
+      "Attribute/1.0.0": {
+        "runtime": {
+          "Attribute.dll": {}
+        }
+      },
+      "models/1.0.0": {
+        "dependencies": {
+          "Attribute": "1.0.0"
+        },
+        "runtime": {
+          "models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Json/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Attribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
